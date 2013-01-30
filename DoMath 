@@ -1,4 +1,4 @@
-class 
+class DoMath 
 {
     public static void main(String[] arguments)
     {
